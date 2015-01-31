@@ -1,0 +1,12 @@
+{
+  "name": "imessage-export",
+  "version": "0.0.1",
+  "description": "export imessage conversation to a JSON file",
+  "main": "index.js",
+  "dependencies": {
+    "imessage": "^0.1.5"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "MIT"
+}
