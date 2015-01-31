@@ -1,5 +1,5 @@
-Quick node script to export an iMessage conversation from the local db on
-your Mac into a readable JSON file that you can search/scan quickly.
+Node script to export an iMessage conversation from the local db on
+your Mac into a readable JSON file.
 
 Usage:
 Clone the repo
